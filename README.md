@@ -1,9 +1,9 @@
 # First Website Template
 
-Detta repository är en **teknisk mall** för en enkel hemsida som används i  
-**studiecirkeln Webb & AI – Medialabbet (FVK)**.
+Detta repository är en <strong>teknisk mall</strong> för en enkel hemsida som används i  
+<strong>studiecirkeln Webb & AI – Medialabbet (FVK)</strong>.
 
-👉 **Instruktioner, uppgifter och kursmaterial finns inte här.**  
+👉 <strong>Instruktioner, uppgifter och kursmaterial finns inte här.</strong><br>
 Allt sådant finns samlat på studiecirkelsidan:
 
 <p>
@@ -21,10 +21,10 @@ Allt sådant finns samlat på studiecirkelsidan:
 Detta repo är tänkt att:
 
 - forkas (skapas en egen kopia av)
-- användas som **arbetsrepo** för din hemsida
+- användas som <strong>arbetsrepo</strong> för din hemsida
 - innehålla så lite text som möjligt
 
-Själva lärandet, stegen och förklaringarna sker i **studiecirkelns webbplats**, inte här.
+Själva lärandet, stegen och förklaringarna sker i <strong>studiecirkelns webbplats</strong>, inte här.
 
 ---
 
@@ -66,7 +66,7 @@ Allt är gjort för att du tryggt ska kunna:
 
 ## Viktigt att veta
 
-- Detta repo är **inte kursmaterialet**
+- Detta repo är <strong>inte kursmaterialet</strong>
 - README här är bara en vägvisare
 - Det är helt okej om du inte förstår allt direkt
 
